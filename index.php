@@ -194,7 +194,7 @@
                         <p class="post-description">
                        Get the Roadies like experience of a three-on-one panel interview. The winner gets a prize money of 1000 Rupees/
                         </p>
-                        <a href="#register" data-toggle="modal" class="read-more" data-target="#register">Register</a>
+                        <a href="#register" data-toggle="modal" <a href="#" class="btn btn-xs btn-primary"><span class="glyphicon glyphicon-hand-right"></span> Register now!</a>
                     </div>
                 </div>
 
@@ -212,7 +212,7 @@
                         <p class="post-description">
                          Come with your updated resumes to the ACM Elections!
                         </p>
-                        <a href="#register" data-toggle="modal" class="read-more" data-target="#register">Register</a>
+                        <a href="#register" data-toggle="modal" <a href="#" class="btn btn-xs btn-success"><span class="glyphicon glyphicon-hand-right"></span> Reserve your seat!</a>
                     </div>
                 </div>
 
@@ -229,7 +229,7 @@
                         <p class="post-description">
                         Catch this exciting fun event coming soon, Winner gets a prize of 300 Rs!
                         </p>
-                        <a href="#register" data-toggle="modal" class="read-more" data-target="#register">Register</a>
+                        <a href="#register" data-toggle="modal" class="btn btn-xs btn-success"><span class="glyphicon glyphicon-hand-right"></span> Reserve your seat!</a>
                     </div>
                 </div>
 
