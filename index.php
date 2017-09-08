@@ -201,7 +201,7 @@
  
                 <div class="post-slide">
                     <div class="post-date">
-                        <span class="date">19</span>
+                        <span class="date">23</span>
                         <span class="month">Sep</span>
                     </div>
                     <div class="post-content">
@@ -210,7 +210,7 @@
                             <a href="#">ACM Elections.</a>
                         </h3>
                         <p class="post-description">
-                         Don't forget to catch the ACM Elections!
+                         Come with your updated resumes to the ACM Elections!
                         </p>
                         <a href="#register" data-toggle="modal" class="read-more" data-target="#register">Register</a>
                     </div>
@@ -218,7 +218,7 @@
 
                    <div class="post-slide">
                     <div class="post-date">
-                        <span class="date">18</span>
+                        <span class="date">27</span>
                         <span class="month">Sep</span>
                     </div>
                     <div class="post-content">
@@ -273,47 +273,38 @@
     <div class="carousel-inner carousel-zoom">
         <div class="active item"><img class="img-responsive" src="assets/1.png" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>Commencement Day 2017</h2>
+            <p>Commencement Day of the Year 2017</p>
           </div>
         </div>
 
         <div class="item"><img class="img-responsive" src="assets/2.jpg" style="width: 100%";>
           <div class="carousel-caption">
+		  <p>Achievements of Adsophos</p>
           </div>
         </div>
 
         <div class="item"><img class="img-responsive" src="assets/3.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>Hackathon</h2>
-            <p>Hackathon conducted by ACM</p>
           </div>
       </div>
 
       <div class="item"><img class="img-responsive" src="assets/4.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>Envisage 2017-18</h2>
-            <p>Participants of the envisage competition!</p>
           </div>
       </div>
 
       <div class="item"><img class="img-responsive" src="assets/5.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>Posters</h2>
-            <p>Some posters crafted by ACM Members for awareness programs</p>
           </div>
       </div>
 
       <div class="item"><img class="img-responsive" src="assets/6.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>Anti-ragging campaign</h2>
-            <p>The Anti-ragging campaign organised by the ACM Team of 2015-16</p>
           </div>
       </div>
 
       <div class="item"><img class="img-responsive" src="assets/7.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <h2>ACM TEAM 2016-17</h2>
-            <p>All the members of ACM 2016-17 combined!</p>
           </div>
       </div>
 
@@ -324,12 +315,12 @@
 
       <div class="item"><img class="img-responsive" src="assets/9.jpg" style="width: 100%";>
           <div class="carousel-caption">
+		  <p>Speech by the Chairman and Vice Chairman on day of Recruitment Drive.<p>
           </div>
       </div>
 
       <div class="item"><img class="img-responsive" src="assets/10.jpg" style="width: 100%";>
           <div class="carousel-caption">
-            <p>Recruitment Drive</p>
           </div>
       </div>
 
